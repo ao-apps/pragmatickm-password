@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+pragmatickm-password - Parent POM for passwords nested within SemanticCMS pages and elements..
+Copyright (C) 2016  AO Industries, Inc.
+    support@aoindustries.com
+    7262 Bull Pen Cir
+    Mobile, AL 36695
+
+This file is part of pragmatickm-password.
+
+pragmatickm-password is non-exclusive, non-transferable, non-redistributable.
+
+pragmatickm-password is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.pragmatickm</groupId>
+		<artifactId>pragmatickm</artifactId>
+		<version>1.1-SNAPSHOT</version>
+	</parent>
+
+	<groupId>com.pragmatickm</groupId>
+	<artifactId>pragmatickm-password</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>PragmaticKM Password</name>
+	<url>https://pragmatickm.com/docs/pragmatickm-password/</url>
+	<description>Parent POM for passwords nested within SemanticCMS pages and elements.</description>
+
+	<scm>
+		<!--
+		<connection>scm:git:git://github.com/aoindustries/pragmatickm-password.git</connection>
+		-->
+		<developerConnection>scm:git:ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password</developerConnection>
+		<!--
+		<url>http://github.com/aoindustries/pragmatickm-password</url>
+		-->
+		<tag>HEAD</tag>
+	</scm>
+
+	<modules>
+		<module>pragmatickm-password-model</module>
+		<module>pragmatickm-password-servlet</module>
+		<module>pragmatickm-password-style</module>
+		<module>pragmatickm-password-taglib</module>
+		<module>pragmatickm-password-view</module>
+	</modules>
+</project>
