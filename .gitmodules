@@ -1,0 +1,15 @@
+[submodule "pragmatickm-password-model"]
+	path = pragmatickm-password-model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-model
+[submodule "pragmatickm-password-servlet"]
+	path = pragmatickm-password-servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-servlet
+[submodule "pragmatickm-password-style"]
+	path = pragmatickm-password-style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-style
+[submodule "pragmatickm-password-taglib"]
+	path = pragmatickm-password-taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-taglib
+[submodule "pragmatickm-password-view"]
+	path = pragmatickm-password-view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-view
