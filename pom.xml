@@ -56,6 +56,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</repositories>
 
 	<modules>
+		<module>pragmatickm-password-all</module>
 		<module>pragmatickm-password-model</module>
 		<module>pragmatickm-password-servlet</module>
 		<module>pragmatickm-password-style</module>

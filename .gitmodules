@@ -13,3 +13,6 @@
 [submodule "pragmatickm-password-view"]
 	path = pragmatickm-password-view
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-view
+[submodule "pragmatickm-password-all"]
+	path = pragmatickm-password-all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-all
