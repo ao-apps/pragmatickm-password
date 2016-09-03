@@ -30,7 +30,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 	<groupId>com.pragmatickm</groupId>
 	<artifactId>pragmatickm-password</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<packaging>pom</packaging>
 
 	<name>PragmaticKM Password</name>
@@ -45,7 +45,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		<!--
 		<url>http://github.com/aoindustries/pragmatickm-password</url>
 		-->
-		<tag>HEAD</tag>
+		<tag>pragmatickm-password-1.2</tag>
 	</scm>
 
 	<repositories>
