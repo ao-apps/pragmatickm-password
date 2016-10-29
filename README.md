@@ -3,6 +3,7 @@ Parent POM for passwords nested within [SemanticCMS](https://semanticcms.com/) p
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/)
+* [Changelog](https://pragmatickm.com/password/changelog)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password)
 
