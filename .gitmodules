@@ -16,3 +16,21 @@
 [submodule "pragmatickm-password-all"]
 	path = pragmatickm-password-all
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-all
+[submodule "all"]
+	path = all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-all
+[submodule "model"]
+	path = model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-model
+[submodule "servlet"]
+	path = servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-servlet
+[submodule "style"]
+	path = style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-style
+[submodule "taglib"]
+	path = taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-taglib
+[submodule "view"]
+	path = view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-view

@@ -70,11 +70,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</repositories>
 
 	<modules>
-		<module>pragmatickm-password-all</module>
-		<module>pragmatickm-password-model</module>
-		<module>pragmatickm-password-servlet</module>
-		<module>pragmatickm-password-style</module>
-		<module>pragmatickm-password-taglib</module>
-		<module>pragmatickm-password-view</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>view</module>
 	</modules>
 </project>
