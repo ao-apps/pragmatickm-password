@@ -29,6 +29,7 @@ Aggregator POM for passwords nested within [SemanticCMS](https://semanticcms.com
 ## Modules
 * [PragmaticKM Password All](https://pragmatickm.com/password/all/)
 * [PragmaticKM Password Model](https://pragmatickm.com/password/model/)
+* [PragmaticKM Password Renderer HTML](https://pragmatickm.com/password/renderer/html/)
 * [PragmaticKM Password Servlet](https://pragmatickm.com/password/servlet/)
 * [PragmaticKM Password Style](https://pragmatickm.com/password/style/)
 * [PragmaticKM Password Taglib](https://pragmatickm.com/password/taglib/)

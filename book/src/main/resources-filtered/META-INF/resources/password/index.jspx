@@ -34,10 +34,12 @@ along with pragmatickm-password.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2017-07-25T22:08:34-0500"
+		dateModified="2017-08-26T01:49:41-0500"
 	>
 		<core:child page="changelog" />
 		<core:child book="/password/all" page="/" />
 		<core:child book="/password/model" page="/" />
+		<core:child book="/password/renderer/html" page="/" />
 		<core:child book="/password/servlet" page="/" />
 		<core:child book="/password/style" page="/" />
 		<core:child book="/password/taglib" page="/" />
@@ -65,6 +67,7 @@ along with pragmatickm-password.  If not, see <http://www.gnu.org/licenses />.
 			<ul>
 				<li><core:link book="/password/all" page="/" /></li>
 				<li><core:link book="/password/model" page="/" /></li>
+				<li><core:link book="/password/renderer/html" page="/" /></li>
 				<li><core:link book="/password/servlet" page="/" /></li>
 				<li><core:link book="/password/style" page="/" /></li>
 				<li><core:link book="/password/taglib" page="/" /></li>

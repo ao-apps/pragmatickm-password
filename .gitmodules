@@ -16,3 +16,6 @@
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/pragmatickm-password-view.git
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/pragmatickm-password-renderer-html.git
