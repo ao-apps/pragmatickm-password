@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Password](https://pragmatickm.com/password/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Password](https://github.com/aoindustries/pragmatickm-password)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for passwords nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for passwords nested within [SemanticCMS](https://github.com/aoindustries/semanticcms) pages and elements.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/)
@@ -27,12 +27,12 @@ Aggregator POM for passwords nested within [SemanticCMS](https://semanticcms.com
 * [GitHub](https://github.com/aoindustries/pragmatickm-password)
 
 ## Modules
-* [PragmaticKM Password All](https://pragmatickm.com/password/all/)
-* [PragmaticKM Password Model](https://pragmatickm.com/password/model/)
-* [PragmaticKM Password Servlet](https://pragmatickm.com/password/servlet/)
-* [PragmaticKM Password Style](https://pragmatickm.com/password/style/)
-* [PragmaticKM Password Taglib](https://pragmatickm.com/password/taglib/)
-* [PragmaticKM Password View](https://pragmatickm.com/password/view/)
+* [PragmaticKM Password All](https://github.com/aoindustries/pragmatickm-password-all)
+* [PragmaticKM Password Model](https://github.com/aoindustries/pragmatickm-password-model)
+* [PragmaticKM Password Servlet](https://github.com/aoindustries/pragmatickm-password-servlet)
+* [PragmaticKM Password Style](https://github.com/aoindustries/pragmatickm-password-style)
+* [PragmaticKM Password Taglib](https://github.com/aoindustries/pragmatickm-password-taglib)
+* [PragmaticKM Password View](https://github.com/aoindustries/pragmatickm-password-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
