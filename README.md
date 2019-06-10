@@ -27,6 +27,7 @@ Aggregator POM for passwords nested within [SemanticCMS](https://github.com/aoin
 * [GitHub](https://github.com/aoindustries/pragmatickm-password)
 
 ## Modules
+* [PragmaticKM Password BOM](https://github.com/aoindustries/pragmatickm-password-bom)
 * [PragmaticKM Password All](https://github.com/aoindustries/pragmatickm-password-all)
 * [PragmaticKM Password Model](https://github.com/aoindustries/pragmatickm-password-model)
 * [PragmaticKM Password Servlet](https://github.com/aoindustries/pragmatickm-password-servlet)
