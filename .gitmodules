@@ -1,24 +1,32 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-password-all.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/pragmatickm-password-model.git
+	branch = .
 [submodule "servlet"]
 	path = servlet
 	url = git@github.com:aoindustries/pragmatickm-password-servlet.git
+	branch = .
 [submodule "style"]
 	path = style
 	url = git@github.com:aoindustries/pragmatickm-password-style.git
+	branch = .
 [submodule "taglib"]
 	path = taglib
 	url = git@github.com:aoindustries/pragmatickm-password-taglib.git
+	branch = .
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/pragmatickm-password-view.git
+	branch = .
 [submodule "renderer-html"]
 	path = renderer-html
 	url = git@github.com:aoindustries/pragmatickm-password-renderer-html.git
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/pragmatickm-password-bom.git
+	branch = .
