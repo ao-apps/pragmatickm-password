@@ -37,7 +37,7 @@ along with pragmatickm-password.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:08:34-0500"
-		dateModified="2019-10-12T07:31:07-0500"
+		dateModified="2020-03-29T05:40:44-05:00"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-password:pom.version}" />
@@ -58,6 +58,28 @@ along with pragmatickm-password.  If not, see <http://www.gnu.org/licenses />.
 				</ul>
 			</changelog:release>
 		</c:if>
+
+		<changelog:release
+			projectName="@{documented.name}"
+			version="1.7.0"
+			datePublished="2020-03-29T05:40:44-05:00"
+			groupId="@{project.groupId}"
+			artifactId="@{documented.artifactId}"
+			scmUrl="@{project.scm.url}"
+		>
+			<ul>
+				<li>
+					Reduced use of property substitutions in <code>pom.xml</code>.
+					This is to help 3rd-party parsers that fail to perform full Maven-compatible substitutions.
+				</li>
+				<li>Updated version of <core:link book="/password/bom" page="/" />.</li>
+				<li>Updated version of <core:link book="/password/all" page="/" />.</li>
+				<li>Updated version of <core:link book="/password/servlet" page="/" />.</li>
+				<li>Updated version of <core:link book="/password/style" page="/" />.</li>
+				<li>Updated version of <core:link book="/password/taglib" page="/" />.</li>
+				<li>Updated version of <core:link book="/password/view" page="/" />.</li>
+			</ul>
+		</changelog:release>
 
 		<changelog:release
 			projectName="@{documented.name}"
