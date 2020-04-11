@@ -1,3 +1,7 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/pragmatickm-password-bom.git
+	branch = .
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-password-all.git
@@ -21,8 +25,4 @@
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/pragmatickm-password-view.git
-	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/pragmatickm-password-bom.git
 	branch = .
