@@ -1,32 +1,32 @@
 [submodule "bom"]
 	path = bom
-	url = git@github.com:aoindustries/pragmatickm-password-bom.git
+	url = git@github.com:ao-apps/pragmatickm-password-bom.git
 	branch = .
 [submodule "all"]
 	path = all
-	url = git@github.com:aoindustries/pragmatickm-password-all.git
+	url = git@github.com:ao-apps/pragmatickm-password-all.git
 	branch = .
 [submodule "model"]
 	path = model
-	url = git@github.com:aoindustries/pragmatickm-password-model.git
+	url = git@github.com:ao-apps/pragmatickm-password-model.git
 	branch = .
 [submodule "renderer-html"]
 	path = renderer-html
-	url = git@github.com:aoindustries/pragmatickm-password-renderer-html.git
+	url = git@github.com:ao-apps/pragmatickm-password-renderer-html.git
 	branch = .
 [submodule "servlet"]
 	path = servlet
-	url = git@github.com:aoindustries/pragmatickm-password-servlet.git
+	url = git@github.com:ao-apps/pragmatickm-password-servlet.git
 	branch = .
 [submodule "style"]
 	path = style
-	url = git@github.com:aoindustries/pragmatickm-password-style.git
+	url = git@github.com:ao-apps/pragmatickm-password-style.git
 	branch = .
 [submodule "taglib"]
 	path = taglib
-	url = git@github.com:aoindustries/pragmatickm-password-taglib.git
+	url = git@github.com:ao-apps/pragmatickm-password-taglib.git
 	branch = .
 [submodule "view"]
 	path = view
-	url = git@github.com:aoindustries/pragmatickm-password-view.git
+	url = git@github.com:ao-apps/pragmatickm-password-view.git
 	branch = .
