@@ -19,7 +19,7 @@ Aggregator POM for passwords nested within [SemanticCMS](https://github.com/ao-a
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/)
 * [Changelog](https://pragmatickm.com/password/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.pragmatickm&q=a%3Apragmatickm-password)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-password)
 * [GitHub](https://github.com/ao-apps/pragmatickm-password)
 
 ## Modules
